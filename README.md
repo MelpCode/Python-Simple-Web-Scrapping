@@ -25,7 +25,7 @@ Es necesario tener instalados las siguientes librerias:
 
 ### Pagina de referencia:
 ***
-Pagina fuente de datos: Scraping Sandbox [https://toscrape.com/]()
+Pagina fuente de datos - Scraping Sandbox:  https://toscrape.com/
 
 
 
