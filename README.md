@@ -1,4 +1,4 @@
-# Python - Webscrapping
+# Python - Web Scrapping
 Para extraer datos de la web usando web scraping con python debes seguir los siguientes
 pasos:
 
