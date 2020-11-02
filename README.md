@@ -22,6 +22,9 @@ Es necesario tener instalados las siguientes librerias:
     pip install bs4
     pip install lxml
 ````
+El programa ***pythonRequest.py*** es un codigo de prueba para conocer 
+el funcionamiento de la biblioteca requests de python.
+
 A la hora de ejecutar el programa ***pythonWebscrap.py*** obtendremos como
 resultado un archivo json con los libros de la pagina de referencia.
 
