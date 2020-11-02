@@ -22,6 +22,11 @@ Es necesario tener instalados las siguientes librerias:
     pip install bs4
     pip install lxml
 ````
+A la hora de ejecutar el programa ***pythonWebscrap.py*** obtendremos como
+resultado un archivo json con los libros de la pagina de referencia.
+
+A la hora de ejecutar el programa ***pythonBs4.py*** Obtendremos como
+resultado un archivo json con los quotes de la pagina de referencia.
 
 ### Pagina de referencia:
 ***
